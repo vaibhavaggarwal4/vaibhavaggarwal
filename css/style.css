@@ -1,6 +1,7 @@
 html,body{
 	background-color:#F2F2F2 !important;
 	height:100%;
+	
 }
  
 #intro{
@@ -36,6 +37,7 @@ html,body{
 	height:10px;
 	background-color:#505050;
 	border-radius:7px;
+	margin-top:8px;
 }
 
 #links{
@@ -100,4 +102,45 @@ html,body{
 	font-size:24px;
 	line-height: 75px;
 
+}
+
+#latest{
+	margin-top:10px;
+	height:600px;
+	width:80%;
+	margin-left:45px;
+	background-color:white;
+	border-radius:10px;
+	text-align:center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#latest_gig{
+	
+	width:60%;
+	padding-top:20px;
+}
+
+#latest_heading{
+	width:95%;
+	margin20px auto;
+	height:150px;
+	background-color:#f39c12;
+	border-radius:10px;
+	color:white;
+}
+
+#latest_gig_description{
+	width:95%;
+	margin: 20px auto;
+}
+
+#latest_gig_images{
+
+	margin: 40px auto;
+}
+
+.gig_img{
+	height:120px;
+	width:120px;
 }
