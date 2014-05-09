@@ -1,0 +1,103 @@
+html,body{
+	background-color:#F2F2F2 !important;
+	height:100%;
+}
+ 
+#intro{
+	width:100%;
+	height:100%;
+	
+}
+#profile{
+	width:80%;
+	height:24%;
+	margin-top:120px;
+}
+#profile_pic{
+	float:right;
+	width:16%;
+	height:100%;
+	
+
+}
+#picture{
+		
+}
+
+#name{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	float:right;
+	margin-top:12%;
+}
+
+#line{
+	margin-left:40px;
+	width:80%;
+	height:10px;
+	background-color:#505050;
+	border-radius:7px;
+}
+
+#links{
+	margin-top:25px;
+	width:80%;
+	height:100px;
+	margin-left:45px;
+	color: #2ECC71;
+	background-color:white;
+	border-radius:15px;
+}
+
+.link_icon{
+	font-size:36px;
+	float:left;
+	text-align:center;
+	height: 150px;
+	width:150px;
+	cursor:pointer;
+}
+.link{
+	margin-top:14px;
+}
+.circle{
+	border-radius:50%;
+	border-width:5px;
+	border-color:#E74C3C;
+	border-style:solid;
+	height:80px;
+	width:80px;
+	background-color:white;
+	margin: 10px auto;
+}
+#aboutDropdown{
+	margin-top:4px;
+	height:80px;
+	width:140px;
+	background-color:#2C3E50;
+	display:none;
+	border-radius:10px;
+	font-size:24px;
+	line-height: 75px;
+}
+#projectsDropdown{
+	margin-top:4px;
+	height:80px;
+	width:140px;
+	background-color:#2C3E50;
+	display:none;
+	border-radius:10px;
+	font-size:24px;
+	line-height: 75px;
+
+}
+#blogDropdown{
+	margin-top:4px;
+	height:80px;
+	width:140px;
+	background-color:#2C3E50;
+	display:none;
+	border-radius:10px;
+	font-size:24px;
+	line-height: 75px;
+
+}
