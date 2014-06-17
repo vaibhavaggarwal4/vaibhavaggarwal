@@ -4,12 +4,12 @@ $(document).ready(function(){
 
 	$(".link").mouseenter(function(){
 		var id = $(this).attr('id');
-		$(this).css({'color':'#2C3E50'});
+		$(this).css({'color':'#F1C40F'});
 		$("#"+id+"Dropdown").slideDown(200);
 	});
 	$(".link").mouseleave(function(){
 		var id = $(this).attr('id');
-		$(this).css({'color':'#2ECC71'});
+		$(this).css({'color':'white'});
 		$("#"+id+"Dropdown").slideUp(200);
 	});
 

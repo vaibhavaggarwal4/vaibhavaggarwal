@@ -35,7 +35,7 @@ html,body{
 	margin-left:40px;
 	width:80%;
 	height:10px;
-	background-color:#505050;
+	background-color:#34495E;
 	border-radius:7px;
 	margin-top:8px;
 }
@@ -45,7 +45,7 @@ html,body{
 	width:80%;
 	height:100px;
 	margin-left:45px;
-	color: #2ECC71;
+	color: white;
 	background-color:white;
 	border-radius:15px;
 }
@@ -64,11 +64,11 @@ html,body{
 .circle{
 	border-radius:50%;
 	border-width:5px;
-	border-color:#E74C3C;
+	border-color:red;
 	border-style:solid;
 	height:80px;
 	width:80px;
-	background-color:white;
+	background-color:#34495E;
 	margin: 10px auto;
 }
 #aboutDropdown{
@@ -124,8 +124,8 @@ html,body{
 #latest_heading{
 	width:95%;
 	margin20px auto;
-	height:150px;
-	background-color:#f39c12;
+	height:75px;
+	background-color:#2980B9;
 	border-radius:10px;
 	color:white;
 }
@@ -143,4 +143,21 @@ html,body{
 .gig_img{
 	height:120px;
 	width:120px;
+}
+
+#reach_me{
+	margin-top:25px;
+	width:80%;
+	height:100px;
+	margin-left:45px;
+	color: #2ECC71;
+	background-color:white;
+	border-radius:15px;
+	margin-bottom:20px;
+}
+
+.social{
+	height:50px;
+	width:50px;
+	margin:20px auto;
 }
